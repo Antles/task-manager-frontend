@@ -82,7 +82,7 @@ const categories = ['Work', 'Personal', 'Shopping', 'Health']
 const editingTask = ref(null)
 
 const API_URL = 'https://task-manager-tmdq.onrender.com'
-const WS_URL = 'https://task-manager-tmdq.onrender.com/ws'
+const WS_URL = 'ws:/https://task-manager-tmdq.onrender.com/ws'
 
 let ws
 
