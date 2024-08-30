@@ -28,7 +28,7 @@ const password = ref('')
 const error = ref('')
 const router = useRouter()
 
-const API_URL = 'http://localhost:3000'
+const API_URL = 'https://task-manager-tmdq.onrender.com'
 
 async function login() {
   try {
